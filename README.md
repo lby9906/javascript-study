@@ -1,1 +1,1 @@
-# javascript-study
+# JavaScaript 스터디
